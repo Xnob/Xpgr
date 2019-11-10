@@ -12,7 +12,8 @@ ku='\033[33;1m' #kuning
 echo
 echo
 #ini paket untuk menjalankan tools
-dicky.sh
+whitehat.sh
+
 echo
 clear
 echo
@@ -52,10 +53,11 @@ echo $me"       ¶¶¶¶                                     ¶¶¶¶"
 echo
 echo
 echo $cy "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-echo $i  "AUTHOR   : GILANG RIYOKO"
-echo $i  "FB       : GILANG RIYOKO"
+echo $i  "AUTHOR   : GILANG RIYOKO 444"
+echo $i  "FB       : GILANG RIYOKO "
 echo $i  "YOUTUBE  : GILANG RIYOKO"
-echo $i  "TOOLS    : INSTALLER (7 TOOLS)"
+echo $i  "gihub.Com/Xnob/xpgr
+echo $ i "ALAT: INSTALLER (44 ALAT )"
 echo $cy "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 echo
 echo
