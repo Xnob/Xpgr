@@ -56,8 +56,8 @@ echo $cy "━━━━━━━━━━━━━━━━━━━━━━━�
 echo $i  "AUTHOR   : GILANG RIYOKO 444"
 echo $i  "FB       : GILANG RIYOKO "
 echo $i  "YOUTUBE  : GILANG RIYOKO"
-echo $i  "gihub.Com/Xnob/xpgr
-echo $ i "ALAT: INSTALLER (44 ALAT )"
+echo $ i "gihub.Com:/Xnob/xpgr"
+echo $ i "ALAT: INSTALLER (44 ALAT)"
 echo $cy "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 echo
 echo
@@ -79,15 +79,15 @@ echo $cy "[7]"$cy" Sadap Camera"
 echo "=================================================="
 echo $cy "[8]"$me" Dark fb versi 1.7"
 echo "=================================================="
-echo $me "[√]"$ku" perbaikan
+echo $me "[√]"$ku" perbaikan"
 echo "=================================================="
-echo $me "[√]"$ku" perbaikan
+echo $me "[√]"$ku" perbaikan"
 echo "=================================================="
-echo $me "[11]"$me" Exit
+echo $me "[11]"$me" Exit"
 echo 
 echo
 echo
-echo $cy"┌==="$bi"[ DICKY GT ]"
+echo $cy"┌==="$bi"[ GILANG RIYOKO]"
 echo $cy"¦"
 read -p">>>" pil;
 
